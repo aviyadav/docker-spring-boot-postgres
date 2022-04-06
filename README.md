@@ -8,6 +8,6 @@
 
 ### docker-compose up
 
-## End U cleanup
+## End & cleanup
 
 ### docker-compose down
